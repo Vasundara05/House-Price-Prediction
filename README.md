@@ -10,7 +10,6 @@ This project predicts house prices using the Boston Housing dataset.
 ## Usage
 1. Clone the repository:
    git clone https://github.com/Vasundara05/House-Price-Prediction.git
-   cd house-price-prediction
 2. Run the Jupyter notebook:
 Open HousePricePrediction.ipynb in Jupyter Notebook or JupyterLab.
 Execute the cells to see the data analysis, model training, and evaluation.
