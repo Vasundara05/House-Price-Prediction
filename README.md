@@ -14,8 +14,8 @@ This project predicts house prices using the Boston Housing dataset.
 - Seaborn
 - Matplotlib
 - Scikit-learn
-You can install the required packages using the following command:
-- pip install scikit-learn seaborn pandas matplotlib
+- You can install the required packages using the following command:
+  1. pip install scikit-learn seaborn pandas matplotlib
 
 ## Instructions
 1. Clone the repository:
